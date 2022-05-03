@@ -1,0 +1,36 @@
+- num: 12
+  desc: Constants, parameters, numbers
+  img: 12_parameters.svg
+- num: 11 
+  desc: The size of buffers relative to their flows
+  img: 11_buffers.svg
+- num: 10
+  desc: Structure of material stocks and flows
+  img: 10_network.svg
+- num: 9
+  desc: Length of delays relative to system change
+  img: 09_delay.svg
+- num: 8 
+  desc: Strength of negative feedback loops
+  img: 08_neg_feedback.svg
+- num: 7
+  desc: The gain around driving positive feedback loops
+  img: 07_pos_feedback.svg
+- num: 6 
+  desc: Structure of information flows
+  img: 06_information_flow.svg
+- num: 5
+  desc: Rules of the system
+  img: 05_rules.svg
+- num: 4
+  desc: The power to change, evolve, or self-organize system structure
+  img: 04_evolution.svg
+- num: 3
+  desc: Goals of the system
+  img: 03_goal.svg
+- num: 2
+  desc: Mindset or paradigm out of which system arises
+  img: 02_mindset.svg
+- num: 1
+  desc: Power to transcend paradigms
+  img: 01_paradigms.svg
